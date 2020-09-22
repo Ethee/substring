@@ -15,8 +15,3 @@ def substring(string, dictionary)
   end
   puts sub_hash
 end
-
-dictionary = ["hello", "brother", "sister", "welcome",  "amazing", "estate", "sick", "bro"]
-string = "Hello Brother and Sister what an amazing palace this is so sick."
-
-substring(string, dictionary)
